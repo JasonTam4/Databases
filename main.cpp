@@ -2,6 +2,8 @@
 Jason Tam
 251171681
 Individual assignment
+Uses an api call to retreive json formatted data from the NHL api which is then parsed to output 
+team names and their scores from each match
 */
 
 #include "main.hpp"
